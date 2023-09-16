@@ -4,6 +4,7 @@ Written By: George Garrelts and Craig G.
 ![Pandas](https://img.shields.io/badge/Pandas-1.3.3-blue)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-blue)
+[![SciPy](https://img.shields.io/badge/SciPy-1.7.0-brightgreen)](https://www.scipy.org/)
 
 This repository contains Python scripts for analyzing sales data. It provides a set of data cleaning and analysis tools to help you gain insights from your sales data.
 
