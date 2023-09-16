@@ -17,7 +17,7 @@ Renaming columns for consistency.
 Mapping products to correct categories.
 Converting data types.
 Handling missing values.
-Splitting the address into separate columns.
+Splitting addresses into separate columns {city, road, state, Zip_code}.
 Detecting and removing duplicate rows.
 
 
