@@ -22,5 +22,13 @@ Splitting addresses into separate columns {city, road, state, Zip_code}.
 Detecting and removing duplicate rows.
 
 
+## Functions List
+[Pandas,](https://pandas.pydata.org/docs/reference/general_functions.html#)
+[ NumPy,](https://numpy.org/doc/stable/reference/routines.html)
+[ matplotlib,](https://matplotlib.org/stable/api/pyplot_summary.html)
+[ SeaBorn,](https://seaborn.pydata.org/tutorial/function_overview.html)
+[ SciPy,](https://docs.scipy.org/doc/scipy/reference/stats.html#)
+[ IPython.display](https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html)
+
 
 
