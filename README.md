@@ -1,10 +1,12 @@
 # Sales Data Analysis
 Written By: George Garrelts and Craig G.
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1%2E21%2E2-blue)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.3.3-blue)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-0%2E11%2E2-blue)](https://seaborn.pydata.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-1.7.0-brightgreen)](https://www.scipy.org/)
+[![IPython.Display](https://img.shields.io/badge/IPython.Display-0%2E9%2E0-blue)](https://ipython.org/)
 
 This repository contains Python scripts for analyzing sales data. It provides a set of data cleaning and analysis tools to help you gain insights from your sales data.
 
